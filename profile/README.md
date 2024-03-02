@@ -1,6 +1,6 @@
 ## Statuses
 
-Common [![Auth CI CD](https://github.com/stdyum/api-common/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/stdyum/api-common/actions/workflows/ci-cd.yml)
+Common [![Common Test](https://github.com/stdyum/api-common/actions/workflows/tests.yml/badge.svg)](https://github.com/stdyum/api-common/actions/workflows/tests.yml)
 
 Auth [![Auth CI CD](https://github.com/stdyum/api-auth/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/stdyum/api-auth/actions/workflows/ci-cd.yml)
 
